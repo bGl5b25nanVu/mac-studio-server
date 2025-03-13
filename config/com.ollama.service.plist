@@ -22,13 +22,13 @@
         <key>OLLAMA_MODELS</key>
         <string>/Users/<OLLAMA_USER>/.ollama/models</string>
         <key>OLLAMA_NUM_PARALLEL</key>
-        <string>8</string>
+        <string>2</string>
         <key>OLLAMA_KEEP_ALIVE</key>
         <string>30m</string>
         <key>OLLAMA_FLASH_ATTENTION</key>
         <string>true</string>
         <key>OLLAMA_MAX_LOADED_MODELS</key>
-        <string>4</string>
+        <string>2</string>
         <key>OLLAMA_NOPRUNE</key>
         <string>true</string>
     </dict>
